@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**ENG4CRYO/Eng4Cryo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Backend Software Developer specializing in building robust web APIs using **.NET**.
 
-Here are some ideas to get you started:
+🛠 **Tech Stack**
+- **Languages:** C#, SQL
+- **Frameworks:** ASP.NET Core, Entity Framework Core
+- **Databases:** PostgreSQL, SQL Server
+- **Concepts:** Clean Architecture, RESTful APIs, SignalR (Real-time communication)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Current Focus**
+I am focus on improve my skills and knowldge
+
+📫 **How to reach me**
+- Email: [thhfgnb@gmail.com]
