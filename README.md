@@ -5,7 +5,7 @@ I'm a Backend Software Developer specializing in building robust web APIs using 
 🛠 **Tech Stack**
 - **Languages:** C#, SQL
 - **Frameworks:** ASP.NET Core, Entity Framework Core
-- **Databases:** PostgreSQL, SQL Server
+- **Databases:** PostgreSQL, SQL Server,My Sql
 - **Concepts:** Clean Architecture, RESTful APIs, SignalR (Real-time communication)
 
 🚀 **Current Focus**
